@@ -1,4 +1,4 @@
-# Работа с проектом в IntelliJ IDEA
+# Contact book
 
 "Контакты" - приложение написанное на Spring framework
 
